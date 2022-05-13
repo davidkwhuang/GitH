@@ -1,0 +1,3 @@
+[submodule "newSubModule"]
+	path = newSubModule
+	url = https://github.com/davidkwhuang/newSubModule
